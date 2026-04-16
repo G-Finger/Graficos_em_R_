@@ -8,5 +8,5 @@ Instruções.
 
 Baixar o arquivo Rmd ou .R e abrir na IDE instalada no seu computador. 
 
-Atentar-se a ter todas a bibliotecas instaladas. 
+Atentar-se a ter todas a bibliotecas instaladas, principalmente a ggplot2
 
